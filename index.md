@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Bienvenido a mi página"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Me agrada que estés acá, esta es una de mis primeras páginas en Github
